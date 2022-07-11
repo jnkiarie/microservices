@@ -1,0 +1,23 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "microservices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnkiarie/microservices.git"
+  },
+  "author": "jnk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnkiarie/microservices/issues"
+  },
+  "homepage": "https://github.com/jnkiarie/microservices#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
